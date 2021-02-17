@@ -11,5 +11,6 @@ Will output:
 ```
 EXAMPLE, LANG + ARGS
 en-US
+Australia/Sydney
 hello world
 ```
